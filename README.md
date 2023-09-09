@@ -1,6 +1,6 @@
 # 查看谷歌账户所在地区，如何更换地区
 
-## 查看账户所在地区
+## 一、查看账户所在地区
 
 进入play商店：https://play.google.com/settings 看页面最下面的位置
 
@@ -9,7 +9,7 @@
 如果你使用 `香港` 代理位置显示 `香港` ，换了 `澳门` 代理位置显示 `澳门` ，换了`台湾` 代理位置显示 `台湾`，说明你没有在商店里消费过，没有锁区，更换其他国家/地区的代理就可以实现更换账户地区操作。
 
 
-## 更换账户地区
+## 二、更换账户地区
 
 > 这里引用知乎高赞的<a href="https://www.zhihu.com/question/21999528" target="_blank">办法</a>并结合我总结的规律
 
@@ -65,6 +65,16 @@
 然后它会显示“此代码有误”或者“您所在的国家/地区不支持兑换”
 
 然后按 `F5` 换区完毕。
+
+## 三、锁定账户区域
+
+这里以美国为例，挂上美国的节点后，前往 [Google Play 图书](https://play.google.com/store/books?ref=yummy.best) ，下滑找到 **热门免费**，随便挑选一本书，交易成功后便完成了 **锁区操作。**
+
+![锁区操作1](https://yummy.best/content/images/size/w1000/2022/10/image-37.png)
+
+![锁区操作2](https://yummy.best/content/images/2022/10/image-38.png)
+
+![锁区操作3](https://yummy.best/content/images/2022/10/image-39.png)
 
 ## 附上知乎大佬的注意事项：
 
