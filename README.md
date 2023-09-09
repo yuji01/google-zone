@@ -56,7 +56,7 @@
 
 这时候按`F5` 你就会发现你已经添加完成付款方式了
 
-3. 接下来打开play商店 https://play.google.com/settings ，点击左边的兑换,输入20位大写字母，点击兑换 
+3. 接下来打开play商店 https://play.google.com/settings ，点击左边的兑换,输入20位大写字母（`DFDFDFDFDFDFDFDFDFDF`），点击兑换 
 
 ![兑换页面](https://s2.ax1x.com/2019/10/20/KMlCrR.jpg)
 
